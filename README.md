@@ -50,4 +50,4 @@ To get started with the "Blog System" project, follow these instructions:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/blog-system.git
+   git clone https://github.com/Eman1-2-3/blog-system.git
