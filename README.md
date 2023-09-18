@@ -25,6 +25,7 @@ The "Blog System" project offers the following key features:
 5. **Blog Posts**: Users can create engaging blog posts to share their thoughts and ideas.
 
 
+
 ## Technologies
 
 The "Blog System" project is built using the following technologies:
