@@ -24,11 +24,6 @@ The "Blog System" project offers the following key features:
 
 5. **Blog Posts**: Users can create engaging blog posts to share their thoughts and ideas.
 
-6. **Comment System**: Foster interaction and discussions with a comment system that allows users to leave comments on blog posts.
-
-7. **Search Functionality**: Enhance discoverability with a powerful search feature, enabling users to find blogs by name, category, or keywords.
-
-8. **Responsive Design**: The application features a mobile-friendly and responsive design for an optimal user experience across various devices.
 
 ## Technologies
 
