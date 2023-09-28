@@ -45,7 +45,7 @@ To get started with the "Blog System" project, follow these instructions:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Eman1-2-3/blog-system.git
+   git clone https://github.com/EmanGhazy2002/blog-system.git
    ```
 
 2. Navigate to the project directory:
